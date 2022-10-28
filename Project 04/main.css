@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: rgb(6, 26, 118);
+}
+h1{
+    margin: 0;
+    font-size: 40px;
+}
+p{
+    margin-top: 10;
+    color: white;
+    margin-bottom: 50px;
+}
+.pass-btn {
+    margin-top: 50px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(25, 63, 231, 0.63);
+    display:inline-table;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    width: 200px;
+    font-size: 15px;
+}
+#first-h1{
+    margin-top: 100px;
+    color: white;
+}
+#secound-h1{
+    color: rgb(42, 150, 129);
+}
+#generate-btn{
+    background-color: rgb(42, 150, 129);
+    font-size: 20px;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+}
